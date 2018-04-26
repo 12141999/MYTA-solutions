@@ -1,0 +1,11 @@
+var mongoose = require("mongoose");
+var Seller = require("./seller");
+
+ProductSchema = new mongoose.Schema({
+  item : String,
+  image : String,
+  description : String,
+  price : String
+});
+
+module.exports = mongoose.model("Product",ProductSchema);

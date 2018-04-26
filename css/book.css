@@ -1,0 +1,28 @@
+body{
+	background-image: url(https://images.pexels.com/photos/207301/pexels-photo-207301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+   background-size: cover;
+	background-position: center;
+	background-color: white;
+	background-repeat: no-repeat;
+
+}
+
+
+
+#border {
+	color: white;
+	border-left: 5px solid black;
+}
+
+#wborder {
+	border : 5px solid black;
+	color: white;
+}
+
+#a {
+	margin-left: 8%;
+}
+
+#b {
+	margin-left: 16%;
+}

@@ -1,0 +1,19 @@
+body  {
+	background: url(https://images.pexels.com/photos/48020/books-education-school-literature-48020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+	background-size: cover;
+	background-position: center;
+	background-color: white;
+	background-repeat: no-repeat;
+}
+ p{
+	text-align: center;
+	margin-top: 27%;
+	font-size: 5em;
+	width: 50%;
+}
+
+hr {
+  width: 30%;
+  border-top: 1px solid f8f8f8;
+  border-bottom: 1px solid rgba(0,0,0,0.4); 
+}
